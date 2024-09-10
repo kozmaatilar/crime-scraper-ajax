@@ -1,0 +1,8 @@
+httpx
+urllib
+ time
+asyncio
+json
+pandas
+fake_useragent 
+argparse
